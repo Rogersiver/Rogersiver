@@ -1,4 +1,4 @@
-# 🖥️ 👋 **Hey! I'm Roger Siver...** 👋 🖥️
+# 👋 Hey! I'm Roger Siver
 
 <center>
 
