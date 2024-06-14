@@ -6,7 +6,7 @@
 
 </center>
 
-> 💻 a Software Developer & Creative based in the USA. I'm passionate about creating utility & using powerful tools, design, and spending my time being a problem solver. I am proficient at NodeJS, Typescript, front-end frameworks, as well as SQL and database structure. Currently learning python, as well as go.
+> 💻 a Software Developer & Creative based in the USA. I'm passionate about creating utility & using powerful tools, design, and spending my time being a problem solver. I am proficient at Python, Typescript, Ansible, DevOps, and Cloud Infrastructure
 
 > 🎸 an event manager with experience in audio, video, and lighting technologies. Whether its full-stack software or any live event, I'm your Engineer.
 
