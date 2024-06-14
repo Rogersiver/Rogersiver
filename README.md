@@ -1,6 +1,4 @@
-Hey.
-
-[![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogersiver)](https://github.com/rogersiver/github-readme-stats)
+Hey GH,
 
 I'm...
 > 💻 a Software Developer & Creative based in the USA. I'm passionate about creating utility & using powerful tools, design, and spending my time being a problem solver. I am proficient at Python, Typescript, Ansible, DevOps, and Cloud Infrastructure
