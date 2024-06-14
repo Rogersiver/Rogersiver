@@ -2,8 +2,7 @@
 
 <center>
 
-  [cv](https://rogersiver.digital/assets/Roger_Siver_CV.pdf)
-||||||| [linkedin](https://www.linkedin.com/in/roger-siver-652927138/) ||||||| [personal site](http://rogersiver.digital/)
+||||||| [linkedin](https://www.linkedin.com/in/roger-siver-652927138/) ||||||| [rogersiver.com](https://rogersiver.com/)
 
 </center>
 
