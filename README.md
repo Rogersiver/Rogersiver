@@ -6,7 +6,4 @@ I'm...
 and
 > 🎸 an event manager with experience in audio, video, and lighting technologies. Whether its full-stack software or any live event, I'm your Engineer.
 
-> 🔗 
-<center>
-||||||| [linkedin](https://www.linkedin.com/in/roger-siver-652927138/) ||||||| [rogersiver.com](https://rogersiver.com/)
-</center>
+> 🔗 | [linkedin](https://www.linkedin.com/in/roger-siver-652927138/) | [rogersiver.com](https://rogersiver.com/) |
